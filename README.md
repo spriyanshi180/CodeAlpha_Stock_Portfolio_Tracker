@@ -15,7 +15,13 @@ A beginner-friendly Python script that helps you calculate your total stock inve
 
 ## 🧪 Sample Run
 (Only use stocks like AAPL, TSLA, GOOGL, AMZN, MSFT or modify dictonary)
-Enter stock names and quantity (type 'done' to finish): Stock name: AAPL Quantity: 2 Stock name: TSLA Quantity: 1 Stock name: done
+
+Enter stock names and quantity (type 'done' to finish): 
+Stock name: AAPL
+Quantity: 2 
+Stock name: TSLA
+Quantity: 1 
+Stock name: done
 
 ----- Portfolio Summary ----- AAPL: 2 x $180 = $360 TSLA: 1 x $250 = $250
 
