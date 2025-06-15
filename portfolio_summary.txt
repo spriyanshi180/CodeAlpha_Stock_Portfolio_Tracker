@@ -1,0 +1,6 @@
+----- Portfolio Summary -----
+AAPL: 5 x $180 = $900
+MSFT: 6 x $320 = $1920
+AMZN: 3 x $125 = $375
+
+Total Investment: $3195
